@@ -1,2 +1,2 @@
-# draike
-dr(ai)ke - generate original rap music using artificial intelligence.
+# dr(ai)ke
+Generate original rap music using artificial intelligence.
